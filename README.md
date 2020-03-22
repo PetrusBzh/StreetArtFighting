@@ -1,5 +1,5 @@
 # Streetart_Fighting
-Jeu vidéo réalisé en un week-end.
+Jeu vidéo réalisé en un week-end dans le cadre d'une Gamejam et portant sur le thème du "Street-Art".
 
 Téléchargez et éxecutez le sous Windows.
 
